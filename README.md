@@ -1,4 +1,4 @@
-I currently do not have the ability to directly execute external API calls or retrieve live data from the Steam API. However, I can show you how to set up a script that will pull all the information you need from the Steam Web API and display it in a clean format. Below is a Python script that you can run on your own computer to retrieve and display the information for the Steam ID you provided.
+
 
 Python Script to Fetch Steam User Data
 
